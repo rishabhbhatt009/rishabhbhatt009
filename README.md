@@ -1,6 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Alexa-TaskBot-Challenge 2023
+- 🌱 I’m currently learning Container Orchestration
+
 <!--
+Important  Link : https://www.youtube.com/watch?v=G-EGDH50hGE&ab_channel=RishavChanda
+
 **rishabhbhatt009/rishabhbhatt009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
