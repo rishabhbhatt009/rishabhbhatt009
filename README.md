@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Alexa-TaskBot-Challenge 2023
-- 🌱 I’m currently learning Container Orchestration
+- 🔭 I’m currently working on automating data workflow
+- 🌱 I’m currently learning Rust, Worflow/Container Orchestration
+
+📫 rishabhbhatt009@gmail.com
 
 <!--
 Important  Link : https://www.youtube.com/watch?v=G-EGDH50hGE&ab_channel=RishavChanda
